@@ -116,7 +116,7 @@ function showForm() {
 function showLogin() {
   let str = `
   <div>
-      <h2>Login Form</h2>
+      <h1>Login Form</h1>
       <div id='msg'></div>
       <p><input id="email" type="text"></p>
       <p><input id="password" type="password"></p>
